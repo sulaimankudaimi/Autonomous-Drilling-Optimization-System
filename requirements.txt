@@ -1,6 +1,2 @@
-tensorflow-cpu
 streamlit
-librosa
-gdown
-matplotlib
-pillow
+pandas
