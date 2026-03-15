@@ -49,18 +49,3 @@ Data-Driven Decisions: Transitioning from "Intuition-based" to "Analytics-based"
 
 Developed by: Eng. Sulaiman
 Role: Systems & Automation Engineer (Petroleum Sector)
-
-
----
-
-### نصيحة الخبير الأخيرة لرفع المشروع:
-1. ارفع الكود `app_drilling.py`.
-2. ارفع ملف الـ `requirements.txt` (الذي يحتوي على `streamlit` و `pandas`).
-3. ارفع ملف الـ `README.md` أعلاه.
-4. **الأهم:** ارفع صورتين من اللقطات التي أرسلتها لي (مثلاً صورة الـ Showdown وصورة الـ Live Monitor) وضعهما داخل المستودع، لكي تظهر الصور مباشرة لمن يقرأ الملف.
-
-
-
-**هل تحتاج إلى مساعدة في أي خطوة من خطوات الرفع على GitHub، أم أنك جاهز لتلقي "مباركة التخرج" لهذا المشروع الرقمي الجبار؟**
-   ```bash
-   git clone [https://github.com/YourUsername/PrecisionDrill-AI.git](https://github.com/YourUsername/PrecisionDrill-AI.git)
